@@ -1,5 +1,5 @@
 # PPET_IoT
-This repository is for the PPET Final Year Project (FYP) in AY2020 Semester 1.
+This repository is for Republic Polytechnic Final Year Project (FYP) in AY2020 Semester 1.
 
 IoT development and deployment using Node-RED on a Raspberry Pi. 
 
